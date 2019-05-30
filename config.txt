@@ -1,4 +1,4 @@
-owner=516473846983950336
+owner=547091659553243138
 prefix=P
 game=Pplay
 stayinchannel=true
